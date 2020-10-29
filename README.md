@@ -1,5 +1,5 @@
 ## Hi 👋
-Checkout my Portfolio. 📝[Portfolio](https://benjdg.github.io/)
+Checkout my 📝[Portfolio](https://benjdg.github.io/).
 
 <!--
 **BenjDG/BenjDG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
