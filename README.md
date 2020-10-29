@@ -1,4 +1,4 @@
-## Hi 👋
+# Hi 👋
 Checkout my 📝[Portfolio](https://benjdg.github.io/).
 
 <!--
