@@ -1,5 +1,6 @@
 # Hi 👋
 Checkout my 📝[Portfolio](https://benjdg.github.io/).
+:point_down: View my code below in my pinned repositories :point_down:
 
 <!--
 **BenjDG/BenjDG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
