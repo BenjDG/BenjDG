@@ -1,5 +1,5 @@
 # Hi 👋
-Checkout my 📝[Portfolio](https://benjdg.github.io/).
+Checkout my 📝[Portfolio](https://benjdg.github.io/).  
 :point_down: View my code below in my pinned repositories :point_down:
 
 <!--
