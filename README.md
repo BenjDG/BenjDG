@@ -1,4 +1,9 @@
 # Hi 👋
+</br>
+</br>
+Thanks for the taking the time to read this:bangbang: :smile:
+</br>
+</br>
 Checkout my 📝[Portfolio](https://benjdg.github.io/).  
 </br>
 </br>
